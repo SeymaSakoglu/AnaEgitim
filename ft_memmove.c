@@ -6,11 +6,11 @@
 /*   By: ssakoglu <ssakoglu@student.42istanbul.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/01/16 20:34:26 by ssakoglu          #+#    #+#             */
-/*   Updated: 2026/01/17 16:34:05 by ssakoglu         ###   ########.fr       */
+/*   Updated: 2026/01/21 18:50:22 by ssakoglu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
+#include "libft.h"
 
 void	*ft_memmove(void *dst, const void *src, size_t len)
 {

@@ -6,13 +6,11 @@
 /*   By: ssakoglu <ssakoglu@student.42istanbul.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/01/20 09:17:29 by ssakoglu          #+#    #+#             */
-/*   Updated: 2026/01/20 11:32:51 by ssakoglu         ###   ########.fr       */
+/*   Updated: 2026/01/21 18:51:43 by ssakoglu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <errno.h>
+#include "libft.h"
 
 void	*ft_calloc(size_t count, size_t size)
 {

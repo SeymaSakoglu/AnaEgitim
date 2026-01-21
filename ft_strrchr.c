@@ -6,12 +6,12 @@
 /*   By: ssakoglu <ssakoglu@student.42istanbul.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/01/08 16:26:00 by ssakoglu          #+#    #+#             */
-/*   Updated: 2026/01/08 17:15:59 by ssakoglu         ###   ########.fr       */
+/*   Updated: 2026/01/21 18:49:35 by ssakoglu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 
-#include <stdio.h>
+#include "libft.h"
 
 char	*ft_strrchr(const char *str, int c)
 {

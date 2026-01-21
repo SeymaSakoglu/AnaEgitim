@@ -6,11 +6,11 @@
 /*   By: ssakoglu <ssakoglu@student.42istanbul.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/01/16 19:01:16 by ssakoglu          #+#    #+#             */
-/*   Updated: 2026/01/16 19:53:17 by ssakoglu         ###   ########.fr       */
+/*   Updated: 2026/01/21 18:48:59 by ssakoglu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
+#include "libft.h"
 
 void	ft_bzero(void *s, size_t n)
 {

@@ -6,11 +6,11 @@
 /*   By: ssakoglu <ssakoglu@student.42istanbul.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/01/06 20:22:57 by ssakoglu          #+#    #+#             */
-/*   Updated: 2026/01/08 16:25:45 by ssakoglu         ###   ########.fr       */
+/*   Updated: 2026/01/21 18:50:16 by ssakoglu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
+#include "libft.h"
 
 char	*ft_strchr(const char *str, int c)
 {

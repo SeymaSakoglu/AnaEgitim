@@ -6,12 +6,11 @@
 /*   By: ssakoglu <ssakoglu@student.42istanbul.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/01/20 10:10:29 by ssakoglu          #+#    #+#             */
-/*   Updated: 2026/01/21 17:37:48 by ssakoglu         ###   ########.fr       */
+/*   Updated: 2026/01/21 18:50:13 by ssakoglu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
-#include <errno.h>
 
 void	*ft_strdup(const char *s1)
 {
