@@ -6,13 +6,12 @@
 /*   By: ssakoglu <ssakoglu@student.42istanbul.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/01/06 17:45:16 by ssakoglu          #+#    #+#             */
-/*   Updated: 2026/01/31 18:50:22 by ssakoglu         ###   ########.fr       */
+/*   Updated: 2026/01/31 18:52:33 by ssakoglu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 int	ft_isalpha(int c)
 {
-
 	if ((c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z'))
 		return (1);
 	return (0);
